@@ -1,5 +1,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vicedev)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicedev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
