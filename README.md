@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vicedev)](https://github.com/anuraghazra/github-readme-stats)</br>
+![vicedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicedev&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
